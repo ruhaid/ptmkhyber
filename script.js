@@ -4,10 +4,10 @@ const imageData = [
   { url: "page3.jpg" },
   { url: "page4.jpg" },
   { url: "page5.jpg" },
-  { url: "/lNews/ali.jpg" },
-  { url: "/lNews/bilal.jpg" },
-  { url: "/lNews/khyber.jpg" },
-  { url: "/lNews/banu.jpg" },
+  { url: "ali.jpg" },
+  { url: "bilal.jpg" },
+  { url: "khyber.jpg" },
+  { url: "banu.jpg" },
 ];
 
 const slideshow = document.getElementById("slideshow");
